@@ -88,6 +88,6 @@
 
 
 -----
-Credits: [Ovindu Wijethunge](https://github.com/DilakshanMadhusanka)
+Credits: [Dilakshan Madhusanka](https://github.com/DilakshanMadhusanka)
 
 Last Edited on: 20/08/2025
