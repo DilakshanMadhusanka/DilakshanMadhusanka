@@ -17,7 +17,7 @@
 <h3 align="center">Machine Learning Engineer</h3>
 <p align="center">
 <a href="https://www.hackerrank.com/madhusankamrd" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/dilakshan-madhusanka-90152b360/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="link_dilakshan" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/dilakshan-madhusanka-90152b360/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="link_dilakshan" height="30" width="40" /></a>  
 <a href="https://www.kaggle.com/dilakshanmadhusanka" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_dilakshan" height="30" width="40" /></a>
 <a href = "mailto: madhusankamrd@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
