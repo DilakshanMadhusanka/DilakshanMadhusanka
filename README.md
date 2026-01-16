@@ -68,6 +68,20 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/opengl/opengl-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> </code>
+  
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
