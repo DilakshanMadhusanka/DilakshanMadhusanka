@@ -14,7 +14,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Dilakshan Madhusanka </h1>
-<h3 align="center">Software Engineer(AI/ML)</h3>
+<h3 align="center">Software Engineer (AI/ML)</h3>
 <p align="center">
 <a href="https://www.hackerrank.com/madhusankamrd" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dilakshan-madhusanka-90152b360/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="link_dilakshan" height="30" width="40" /></a>  
